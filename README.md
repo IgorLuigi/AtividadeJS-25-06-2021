@@ -11,3 +11,6 @@
 
 # 4 - O que é destructuring e para quais propósitos pode ser utilizado?
 ## Destructuring é uma expressão onde possibilita "desempacotar" valores dentro de um array ou propriedades de objetos.
+
+# 5 - O que é o DOM?
+## DOM ou simplesmente Document Object Model, é uma interface que irá representar como os documentos web irão ser lidos pelo navegador. Através do DOM então, será possível manipular através do JS proporcionando diversas vantagens, como criar aplicações que atualizem a página sem ser necessário uma atualização e até mesmo aplicações customizáveis pelo usuário.
