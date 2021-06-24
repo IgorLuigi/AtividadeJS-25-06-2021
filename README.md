@@ -14,3 +14,6 @@
 
 # 5 - O que é o DOM?
 ## DOM ou simplesmente Document Object Model, é uma interface que irá representar como os documentos web irão ser lidos pelo navegador. Através do DOM então, será possível manipular através do JS proporcionando diversas vantagens, como criar aplicações que atualizem a página sem ser necessário uma atualização e até mesmo aplicações customizáveis pelo usuário.
+
+# 6 - Quais problemas o JavaScript assíncrono soluciona?
+##  Ele soluciona o problema da programação síncrona, ou seja, é executado passo a passo onde só será executada a próxima função após o término da primeira. Com a programação assíncrona, não é necessário "esperar", pois a programação assíncrona consegue realizar as duas ao mesmo tempo.
