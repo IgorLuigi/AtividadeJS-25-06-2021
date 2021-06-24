@@ -20,3 +20,6 @@
 
 # 7 - Para que servem os comandos async e await?
 ## Os comando async e await são uma sintaxe que representa a programação assíncrona, facilitando assim o fluxo e a leitura do código, porém, sendo lido de forma ainda síncrona. Estes comandos eles retornam uma Promises, sendo assim, o código apenas dará continuidade após a Promise ser resolvida.
+
+# 8 - Quais as vantagens de se usar Promises ao invés de callbacks?
+## A vantagem de usar o Promises é que ele define uma ação que será realizada no futuro, ou seja, a grande vantagem do Promises em relação ao callback, é a organização do código pois temos a implementação do "then", ficando visível o pipeline da execução.
