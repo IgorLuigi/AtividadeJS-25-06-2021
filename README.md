@@ -17,3 +17,6 @@
 
 # 6 - Quais problemas o JavaScript assíncrono soluciona?
 ##  Ele soluciona o problema da programação síncrona, ou seja, é executado passo a passo onde só será executada a próxima função após o término da primeira. Com a programação assíncrona, não é necessário "esperar", pois a programação assíncrona consegue realizar as duas ao mesmo tempo.
+
+# 7 - Para que servem os comandos async e await?
+## Os comando async e await são uma sintaxe que representa a programação assíncrona, facilitando assim o fluxo e a leitura do código, porém, sendo lido de forma ainda síncrona. Estes comandos eles retornam uma Promises, sendo assim, o código apenas dará continuidade após a Promise ser resolvida.
